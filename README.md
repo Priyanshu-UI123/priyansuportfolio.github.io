@@ -3,7 +3,7 @@
 A lightweight, modern **developer portfolio website** built using **vanilla HTML, CSS, and JavaScript**.  
 Designed to be fast, responsive, and easy to maintain — without relying on frameworks.
 
- **Live Demo:** https://priyanshu-ui123.github.io/priyansuportfolio.github.io/
+ **Live Demo:** https://shavedXpixel.github.io/priyansuportfolio.github.io/
  
 ---
 
